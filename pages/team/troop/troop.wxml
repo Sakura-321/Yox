@@ -1,0 +1,4 @@
+<!--troop.wxml-->
+<view class="container">
+   <button>创建团队</button>
+</view>
